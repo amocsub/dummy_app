@@ -1,0 +1,3 @@
+[submodule "dummy_submodule"]
+	path = dummy_submodule
+	url = git@github.com:amocsub/dummy_submodule.git
